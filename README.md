@@ -1,0 +1,2 @@
+# magninarchitecture
+Redesign of magninarchitecture
